@@ -7,7 +7,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/hackersandslackers/django-intro-tutorial.svg?style=flat-square&colorB=ebcb8b&colorA=4c566a)](https://github.com/hackersandslackers/bigquery-python-tutorial/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/hackersandslackers/django-intro-tutorial.svg?style=flat-square&colorA=4c566a&colorB=ebcb8b)](https://github.com/hackersandslackers/bigquery-python-tutorial/network)
 
-![Django Intro Tutorial](https://res-3.cloudinary.com/hackers/image/upload/q_auto:best/v1/2019/12/django-gettingstarted.png)
+![Django Intro Tutorial](https://res-2.cloudinary.com/hackers/image/upload/q_auto/v1/2019/12/django-gettingstarted@2x.jpg)
 
 A beginner's tutorial to launching a simple Django web app (part 1 of a series). This repository is the source code for the tutorial found here: https://hackersandslackers.com/getting-started-django/
 
