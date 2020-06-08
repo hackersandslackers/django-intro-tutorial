@@ -11,24 +11,26 @@
 
 A beginner's tutorial to launching a simple Django web app (part 1 of a series). This repository is the source code for the tutorial found here: https://hackersandslackers.com/getting-started-django/
 
-## Getting Started
+## Installation
 
-Installation is recommended with [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/):
+**Installation via `requirements.txt`**:
+
+```shell
+$ git clone https://github.com/hackersandslackers/django-intro-tutorial.git
+$ cd django-intro-tutorial
+$ python3 -m venv myenv
+$ source myenv/bin/activate
+$ pip3 install -r requirements.txt
+$ python3 manage.py runserver
+```
+
+**Installation via [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/)**:
 
 ```shell
 $ git clone https://github.com/hackersandslackers/django-intro-tutorial.git
 $ cd django-intro-tutorial
 $ pipenv shell
 $ pipenv update
-$ python3 manage.py runserver
-```
-
-Alternatively, try installing via `setup.py`:
-
-```shell
-$ git clone https://github.com/hackersandslackers/django-intro-tutorial.git
-$ cd django-intro-tutorial
-$ python3 setup.py install
 $ python3 manage.py runserver
 ```
 
