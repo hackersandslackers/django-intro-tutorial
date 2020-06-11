@@ -43,7 +43,7 @@ The scope of this tutorial covers the modest scope of serving a single page temp
 * Creating and managing “app” modules
 * Serving templates via Django’s native templating system
 * Styling templates with static assets
-* Routing in Dango
+* Routing in Django
 
 -----
 
