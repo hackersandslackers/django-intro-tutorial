@@ -34,6 +34,16 @@ $ pipenv update
 $ python3 manage.py runserver
 ```
 
+**Installation via [Poetry](https://python-poetry.org/)**:
+
+```shell
+$ git clone https://github.com/hackersandslackers/django-intro-tutorial.git
+$ cd django-intro-tutorial
+$ poetry shell
+$ poetry update
+$ python3 manage.py runserver
+```
+
 ## How to use
 
 The scope of this tutorial covers the modest scope of serving a single page template via Django complete with styles and other static assets. Deploying this project won't result in anything glorious, as it is intended to help newcomers grasp some basic Django concepts such as:
