@@ -1,6 +1,6 @@
 asgiref==3.2.7
 Django==3.0.7
-mysqlclient==1.4.6
+mysqlclient==2.0.1
 python-dotenv==0.13.0
 pytz==2020.1
 sqlparse==0.3.1
