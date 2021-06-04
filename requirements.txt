@@ -1,6 +1,7 @@
-asgiref==3.2.10
-Django==3.1.2
-mysqlclient==2.0.1
-python-dotenv==0.15.0
-pytz==2020.1
-sqlparse==0.3.1
+-i https://pypi.org/simple/
+asgiref==3.3.4
+django==3.1.9
+mysqlclient==1.4.6
+python-dotenv==0.13.0
+pytz==2021.1
+sqlparse==0.4.1
